@@ -1,0 +1,26 @@
+body {
+    background-color: pink;
+    font-family: Arial, Helvetica, sans-serif
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    color: rgb(143, 45, 61);
+}
+button {
+    background-color: rgb(117, 29, 44);
+    border: 1px solid black;
+    outline: none;
+    padding: 5px 15px;
+}
+button a {
+    color: white;
+    padding: 5px 5px;
+    border-radius: 26px;
+    text-decoration: none;
+    cursor: pointer;
+}
+div {
+    display: flex;
+    justify-content: center;
+}

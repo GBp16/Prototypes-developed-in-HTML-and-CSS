@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(128, 194, 255);
+    font-family: Arial, Helvetica, sans-serif
+}
+h1 {
+    display: flex;
+    color: rgb(18, 18, 133);
+    justify-content: center;
+}
+button a {
+    color: white;
+    padding: 5px 5px;
+    cursor: pointer;
+    border-radius: 26px;
+    text-decoration: none; 
+}
+button {
+    border: 1px solid black;
+    outline: none;
+    padding: 5px 15px;
+    background-color: rgb(24, 24, 102);
+}
+div {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+}

@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+
+header {
+    text-align: center;
+}
+
+h1 {
+    font-size: 7vh;
+    
+}
+
+.p-header {
+    display: flex;
+    justify-content: center;
+    height: 6vh;
+    margin-top: -20px;
+}
+
+.ul-header {
+    list-style: none;
+}
+.ul-header {
+    display: flex;
+    justify-content: space-evenly; 
+}
+
+.indoor {
+    text-align: center;
+    margin: 20vh;
+    background-image: url(imagens/image01.jpeg);
+}
+
+.div01 {
+   background-color: white;
+ }
+.section02 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ aside {
+    margin: 6vh;
+}  
+.div02 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 4vh;
+}
+
+.button01 {
+    
+}
